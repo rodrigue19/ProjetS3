@@ -1,0 +1,6 @@
+C:\Users\Club robot\Desktop\Proojet01 (3)\Projet01.cydsn\Projet01.cyprj|d9e7a74f-b042-4dcb-ac9d-1ad2c83e99e4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9dc82541-472e-47b5-bde7-75db710be25e
+C:\Users\Club robot\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|54ae41ab-2882-4d87-9c14-61f0152975f1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cfa33f4b-9e39-4a78-87c5-235b04466a60
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|823c6ea0-7d2e-4abb-bf6a-7419841a34f4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|60ab66a3-961d-4213-9aac-47065da88984
